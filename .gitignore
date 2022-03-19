@@ -1,3 +1,4 @@
 *.idea/
 Indian_States
 Key_Logger
+*venv/
