@@ -23,5 +23,5 @@ def spirolograf(size):
         crl.setheading(crl.heading()+size)   # set the new position of circle
 
 
-spirolograf(5)
+spirolograf(6)
 time.exitonclick()
