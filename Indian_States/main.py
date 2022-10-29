@@ -50,11 +50,3 @@ while len(guessed_State) <= 36: # loop will run until all 36 state note complete
 #screen.exitonclick()
 
 
-#
-# # this will track coordinate on terminal
-# def get_coordinate_mouse_clic(lat, lng):
-#     print(lat, lng)
-#
-# turtle.onscreenclick(get_coordinate_mouse_clic)
-#
-# turtle.mainloop()
