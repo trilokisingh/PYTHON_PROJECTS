@@ -1,0 +1,1 @@
+ # self.criminal_table.heading('13',text="Gender")
